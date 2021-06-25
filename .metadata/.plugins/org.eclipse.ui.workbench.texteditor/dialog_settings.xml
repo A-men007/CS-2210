@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="previous_Line"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="prevLine"/>
+			<item value="curLine"/>
+			<item value="destination"/>
+			<item value="beginning"/>
+			<item value="beggining"/>
+			<item value="begining"/>
+			<item value="busChange"/>
+			<item value="exists"/>
+			<item value="thePath"/>
+			<item value="nd"/>
+			<item value="adjMatrix"/>
+			<item value="nodeArray"/>
+			<item value="numNodes"/>
+			<item value="node"/>
+			<item value="icon"/>
+		</list>
+		<list key="replacehistory">
+			<item value="previous_Line"/>
+			<item value="current_Line"/>
+			<item value="Dest"/>
+			<item value="begin"/>
+			<item value="Change"/>
+			<item value="Exists"/>
+			<item value="Path"/>
+			<item value="N"/>
+			<item value="Adj_Matrix"/>
+			<item value="Array"/>
+			<item value="Node_Numbers"/>
+			<item value="value"/>
+			<item value="output_Stream"/>
+			<item value="input_Stream"/>
+			<item value="curr"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1274"/>
+		<item key="DIALOG_Y_ORIGIN" value="363"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
