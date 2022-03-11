@@ -6,6 +6,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\CS4472\atm"/>
+			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\CS4472"/>
+			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\src"/>
 			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\eclipse-workspace\Bstrees_assn4"/>
 			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\eclipse-workspace\Compressioncode"/>
 			<item value="C:\Users\amanp\OneDrive - The University of Western Ontario\Documents\Source\eclipse-workspace\cs2210"/>
